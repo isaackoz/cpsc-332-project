@@ -15,3 +15,5 @@ To set this up locally follow these instructions:
 ## Windows
 
 ## Linux
+1. Install PHP 7.4
+2. Install Apache
