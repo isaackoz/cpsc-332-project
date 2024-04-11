@@ -8,3 +8,10 @@ MariaDB
 
 ## Web:
 PHP
+
+
+# Initial Setup
+To set this up locally follow these instructions:
+## Windows
+
+## Linux
