@@ -1,2 +1,10 @@
 # cpsc-332-project
 CSUF CPSC 332 Term Project - PHP + MySQL
+
+This project uses the LAMP stack - Linux - Apache - MySQL - PHP
+
+## Database:
+MariaDB
+
+## Web:
+PHP
