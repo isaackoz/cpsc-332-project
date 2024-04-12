@@ -21,7 +21,7 @@ N/A
 2. Install Apache2
 3. Enable `pdo_mysql` in `sudo nano /etc/php/7.4/apache2/php.ini` by removing the `;` before it. (Ctrl + W to search)
 4. Setup MariaDB server
-5. Clone this repo into /var/www/school with `git clone [url] .`
+5. Clone this repo into /var/www/school with `git clone https://github.com/isaackoz/cpsc-332-project.git .`
 6. Add website to apache2 (optionally add hosts file, so you can access at school.local) so dir should be `/var/www/school/web`
 7. Configure permissions for `/var/www/school` so apache can access it
 8. Configure composer and install it
