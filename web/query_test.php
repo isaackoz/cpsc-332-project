@@ -28,11 +28,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['id'])) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Query Test Table</title>
+    <link rel="stylesheet" href="css/styles.css"/>
+
 </head>
 <body>
-    <h1>Query Test Table</h1>
+    <h1>Professor query</h1>
     <form method="post">
-        <label for="id">Enter ID:</label>
+        <label for="id">Enter SSN:</label>
         <input type="text" id="id" name="id" required>
         <button type="submit">Submit</button>
     </form>
