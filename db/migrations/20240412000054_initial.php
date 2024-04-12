@@ -19,6 +19,8 @@ final class Initial extends AbstractMigration
      */
     public function change(): void
     {
-
+        $test = $this->table('test');
+        $test->addColumn('name','string', ['limit'=> 255])
+            ->create();
     }
 }
