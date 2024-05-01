@@ -5,9 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CPSC 332 Term Project</title>
     <link rel="stylesheet" href="css/styles.css"/>
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
-    <h1>CPSC 332<br/> Term Project</h1>
+    <h1 class='text-5xl font-bold '>CPSC 332<br/> Term Project</h1>
     <ul>
         <li><a href="query_test.php" class="button">Professor's Portal</a></li>
         <li><a href="query_foo.php" class="button">Student's Portal</a></li>
