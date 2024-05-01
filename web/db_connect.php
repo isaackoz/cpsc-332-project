@@ -1,9 +1,9 @@
 <?php
 // Database credentials
 $host = '127.0.0.1';  // Database host
-$dbname = 'test';  // Database name
+$dbname = 'mydb';  // Database name
 $user = 'root';  // Database username
-$pass = 'password';  // Database password
+$pass = '';  // Database password
 $charset = 'utf8mb4';  // Character set
 
 // DSN (Data Source Name)
