@@ -10,8 +10,8 @@
 <body>
     <h1 class='text-5xl font-bold '>CPSC 332<br/> Term Project</h1>
     <ul>
-        <li><a href="query_test.php" class="button">Professor's Portal</a></li>
-        <li><a href="query_foo.php" class="button">Student's Portal</a></li>
+        <li><a href="professor.php" class="button-9">Professor's Portal</a></li>
+        <li><a href="student.php" class="button-9">Student's Portal</a></li>
     </ul>
 </body>
 </html>
